@@ -15,9 +15,9 @@ import androidx.navigation.compose.rememberNavController
 import com.ballboycorp.note.model.Folder
 import com.ballboycorp.note.model.Note
 import com.ballboycorp.note.ui.theme.NoteTheme
-import com.ballboycorp.note.ui.view.screens.editor.EditorScreen
-import com.ballboycorp.note.ui.view.screens.folders.FoldersScreen
-import com.ballboycorp.note.ui.view.screens.notes.NotesScreen
+import com.ballboycorp.note.ui.view.screen.editor.EditorScreen
+import com.ballboycorp.note.ui.view.screen.folders.FoldersScreen
+import com.ballboycorp.note.ui.view.screen.notes.NotesScreen
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

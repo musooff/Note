@@ -1,4 +1,4 @@
-package com.ballboycorp.note.ui.view.screens.folders
+package com.ballboycorp.note.ui.view.screen.folders
 
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.background
